@@ -4,9 +4,11 @@ I was asked by a subscriber on my YouTube channel "What is the difference betwee
 3.2 and Spring Data JDBC"? I thought that was a great question and decided to make a video addressing that question. In 
 this tutorial we explore the various ways we can communicate with a database in Java & Spring. 
 
-## TESTLINE: Branch Devel for tutorial purposes. 
+## Tutorial Link: What is the difference between JDBC Client and Spring Data JDBC?
 
-This is the test line section. 
+This is the tutorial that this project is based on. 
+
+Click [this link](https://www.youtube.com/watch?v=qLDrfebeXS0) which will open the tutorial for you.
 
 ## Getting Started 
 
